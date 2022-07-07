@@ -1,4 +1,4 @@
-[![Header](https://github.com/OSMINOZH/OSMINOZH/blob/main/Header.jpg)]
+![Header](https://github.com/OSMINOZH/OSMINOZH/blob/main/Header.jpg)
 
 About me
 
