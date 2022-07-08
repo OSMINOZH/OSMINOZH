@@ -7,6 +7,6 @@ About me
 Latest projects
 
 ### Language & Tools
-![Flutter](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=Flutter&logoColor=47C5FB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 Follow me
