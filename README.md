@@ -18,4 +18,4 @@
 ##### Ask me
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/osminozh)
 
-[![OSMINOZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSMINOZH)]
+![OSMINOZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSMINOZH&theme=prussian&show_icons=true)
