@@ -1,5 +1,3 @@
-![Header](https://github.com/OSMINOZH/OSMINOZH/blob/main/Header.jpg)
-
 # About me
 
 ## I`m beginner in Software Engineering and Gaming Development
