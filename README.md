@@ -5,7 +5,7 @@
 ## I`m beginner in Software Engineering and Gaming Development
 
 ###Latest projects
-[!🎮 Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
+🎮 [Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
 
 #### Language & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
