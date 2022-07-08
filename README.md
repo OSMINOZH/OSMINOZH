@@ -1,10 +1,10 @@
 ![Header](https://github.com/OSMINOZH/OSMINOZH/blob/main/Header.jpg)
 
-#About me
+# About me
 
 ## I`m beginner in Software Engineering and Gaming Development
 
-###Latest projects
+### Latest projects
 🎮 [Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
 
 #### Language & Tools
