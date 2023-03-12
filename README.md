@@ -4,6 +4,7 @@
 
 ### Latest projects
 🎮 [Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
+
 🎮 [The Duel](https://github.com/OSMINOZH/The_duel)
 
 #### Currently working on
