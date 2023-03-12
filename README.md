@@ -4,9 +4,10 @@
 
 ### Latest projects
 🎮 [Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
+🎮 [The Duel](https://github.com/OSMINOZH/The_duel)
 
 #### Currently working on
-🎮 [The Duel](https://github.com/OSMINOZH/The-duel.git)
+[NONE]
 
 ##### Language & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
