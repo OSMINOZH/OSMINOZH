@@ -5,7 +5,7 @@
 ### Latest projects
 🎮 [Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
 
-🎮 [The Duel](https://github.com/OSMINOZH/The_duel)
+🎮 [The Duel (Console Application)](https://github.com/OSMINOZH/The_duel)
 
 💻 [Air Booking](https://github.com/OSMINOZH/air-booking)
 #### Currently working on
