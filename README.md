@@ -3,9 +3,9 @@
 ## I`m beginner in Software Engineering and Gaming Development
 
 ### Latest projects
-🎮 [Packeting Simulator](https://github.com/OSMINOZH/Simulator.git)
+🎮 [Packeting Simulator (Unity)](https://github.com/OSMINOZH/Simulator.git)
 
-🎮 [The Duel](https://github.com/OSMINOZH/The_duel)
+🎮 [The Duel (Unity)](https://github.com/OSMINOZH/The_duel)
 
 ✈️ [Air Booking (Console Application)](https://github.com/OSMINOZH/air-booking)
 
