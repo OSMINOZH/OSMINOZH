@@ -8,6 +8,8 @@
 🎮 [The Duel](https://github.com/OSMINOZH/The_duel)
 
 💻 [Air Booking (Console Application)](https://github.com/OSMINOZH/air-booking)
+
+💻 [Security agency (WinForms App)](https://github.com/OSMINOZH/Security-agency)
 #### Currently working on
 [NONE]
 
