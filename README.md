@@ -23,6 +23,9 @@
 
 ###### Ask me
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/osminozh)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18969967/osmi)
+
+###### Ask me
 
 ###### Stats
 ![OSMINOZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSMINOZH&theme=prussian&show_icons=true)
