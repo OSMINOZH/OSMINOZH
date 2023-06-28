@@ -12,7 +12,7 @@
 📲 [Security agency (WinForms App)](https://github.com/OSMINOZH/Security-agency)
 #### Currently working on
 🔉 [Voice Transcriber (WinForms App + AI)](https://github.com/OSMINOZH/Voice-Transcriber)
-
+📲 [Random Number (WinForms App)](https://github.com/OSMINOZH/Random-Number)
 ##### Language & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
