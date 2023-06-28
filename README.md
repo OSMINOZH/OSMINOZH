@@ -1,6 +1,6 @@
 # About me
 
-## I`m beginner in Software Engineering and Gaming Development
+## I`m junior specialist in Software Engineering and Gaming Development
 
 ### Latest projects
 🎮 [Packeting Simulator (Unity)](https://github.com/OSMINOZH/Simulator.git)
