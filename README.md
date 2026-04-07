@@ -5,15 +5,21 @@
 ### Latest projects
 🎮 [Packeting Simulator (Unity)](https://github.com/OSMINOZH/Simulator.git)
 
+🔉 [Voice Transcriber (WinForms App + AI)](https://github.com/OSMINOZH/Voice-Transcriber)
+
 🎮 [The Duel (Unity)](https://github.com/OSMINOZH/The_duel)
+
+📲 [Bazis Extraction (CMD)](https://github.com/OSMINOZH/Bazis-Extraction)
 
 ✈️ [Air Booking (Console Application)](https://github.com/OSMINOZH/air-booking)
 
 📲 [Security agency (WinForms App)](https://github.com/OSMINOZH/Security-agency)
 
 📲 [Random Number (WinForms App)](https://github.com/OSMINOZH/Random-Number)
+
 #### Currently working on
-🔉 [Voice Transcriber (WinForms App + AI)](https://github.com/OSMINOZH/Voice-Transcriber)
+
+
 ##### Language & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,6 +31,7 @@
 ###### Ask me
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/osminozh)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18969967/osmi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OSMINOZH)
 
 ###### Stats
 ![OSMINOZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSMINOZH&theme=prussian&show_icons=true)
