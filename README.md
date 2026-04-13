@@ -5,7 +5,7 @@
 ### Latest projects
 🎮 [Packeting Simulator (Unity)](https://github.com/OSMINOZH/Simulator.git)
 
-🔉 [Voice Transcriber (WinForms App + AI)](https://github.com/OSMINOZH/Voice-Transcriber)
+🔉 [Voice Transcriber (WinForms App + AI)](https://github.com/OSMINOZH/VoiceTranscriberLegacy)
 
 🎮 [The Duel (Unity)](https://github.com/OSMINOZH/The_duel)
 
